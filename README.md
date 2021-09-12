@@ -21,4 +21,4 @@ This is a repository for voting software built using Choice Coin on the Algorand
 - Create a new MySQL database with the appropriate credentials as described in the *SQL_Code.sql* file. Be sure to enter in your MySQL credentials at the appropriate points at lines *15-20* in *index.py*. Specifically, create a new MySQL user with root privileges that can easily access and change the database.  
 - Finally, to test as a web application, use the command *python index.py* in a regular terminal with the virtual environment configured. This will launch a web-application that you can interact with.
 - To learn more about the web application, watch the Demo Video here: https://youtu.be/DWXNGDYXnIM.
-
+To be able to test the 
